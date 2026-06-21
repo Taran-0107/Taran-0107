@@ -33,31 +33,11 @@
 
 ---
 
-## Featured Projects
-
-### 🔒 SecurePost
-
-Automated envelope sealing system designed to securely seal printed documents through a fully integrated workflow.
-
-### 🗣️ Multilingual Character Voice Translation System
-
-AI pipeline capable of translating speech while preserving speaker identity, emotion, and vocal characteristics.
-
-### 🌱 Plant Disease Detection
-
-Computer vision application for identifying plant diseases and recommending treatments using machine learning.
-
-### 🧠 API Genius
-
-Hackathon-winning AI assistant that helps developers discover, understand, and integrate APIs into projects.
-
----
-
 ## Achievements
 
-🏆 Winner — Heritage Institute of Technology Hackathon
+🏆 Winner(1st place) — IdeateX Session Zero hackathon, powered by google developer group
 
-🥉 3rd Place — Airothon AI Hackathon
+🥉 3rd Place — Airothon AI Hackathon, organised by AiroLabs
 
 🥉 3rd Place — IIT Dhanbad Game Jam
 
