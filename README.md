@@ -1,22 +1,5 @@
 # Hi there, I'm Tarandeep Singh 👋
 
-```cpp
-class TarandeepSingh {
-public:
-    string education = "B.Tech CSAI, IIIT Delhi";
-    vector<string> interests = {
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Systems Programming",
-        "Automation",
-        "Game Development"
-    };
-
-    string currentFocus = "Building AI-powered applications and software products";
-};
-```
-
 ## About Me
 
 * 🎓 B.Tech in Computer Science and Artificial Intelligence from IIIT Delhi
