@@ -2,11 +2,11 @@
 
 ## About Me
 
-* 🎓 B.Tech in Computer Science and Artificial Intelligence from IIIT Delhi
-* 🤖 Passionate about Artificial Intelligence, Machine Learning, and Computer Vision
-* 💻 Building software that combines AI with practical real-world applications
-* 🚀 Interested in startups, product development, automation, and open-source
-* 🎮 Occasionally experimenting with game development and creative tech projects
+* B.Tech in Computer Science and Artificial Intelligence from IIIT Delhi
+* Passionate about Artificial Intelligence, Machine Learning, and Computer Vision
+* Building software that combines AI with practical real-world applications
+* Interested in startups, product development, automation, and open-source
+* Occasionally experimenting with game development and creative tech projects
 
 ## Tech Stack
 
@@ -55,8 +55,8 @@
 
 ## Connect With Me
 
-* 💼 LinkedIn: [Your LinkedIn]
-* 📧 Email: [Your Email]
+* 💼 LinkedIn: [https://www.linkedin.com/in/tarandeep-singh-a32277278/]
+* 📧 Email: [tarandeepsingh399113@gmail.com]
 * 🌐 Portfolio: [Your Portfolio]
 
 ---
